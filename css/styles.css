@@ -3544,8 +3544,12 @@ img.mfp-img {
 .slicknav_menu {
     *zoom: 1;
     font-size: 16px;
-    background: #4c4c4c;
+    background: #8ad55d;
     padding: 5px
+}
+
+.main-head-color {
+    color: #8ad55d;
 }
 
 .slicknav_nav,
@@ -3749,7 +3753,7 @@ ol {
     right: 25px;
     top: 14px;
     font-size: 21px;
-    color: #ae9548
+    color: #fff
 }
 
 #preloder {
@@ -3805,7 +3809,7 @@ ol {
 }
 
 .header-section {
-    background: #353535;
+    background: #8ad55d;
     padding: 38px 0;
     position: absolute;
     left: 0;
@@ -3813,7 +3817,7 @@ ol {
 }
 
 .header-section.other-page {
-    border-bottom: 1px solid #ae9548
+    border-bottom: 1px solid #fff
 }
 
 .header-section.other-page .inner-header .main-menu {
@@ -3881,7 +3885,7 @@ ol {
 }
 
 .inner-header .main-menu ul li:hover a {
-    color: #ae9548
+    color: #fff
 }
 
 .inner-header .main-menu ul li .drop-menu {
@@ -3903,7 +3907,7 @@ ol {
 }
 
 .inner-header .main-menu ul li .drop-menu li:hover a {
-    color: #ae9548
+    color: #fff
 }
 
 .inner-header .main-menu ul li .drop-menu li a {
@@ -3979,7 +3983,7 @@ ol {
 
 .slider-nav .single-slider-nav:hover .nav-text {
     background: #fff;
-    border: 1px solid #ae9548;
+    border: 1px solid #fff;
     border-top: 0
 }
 
@@ -4011,7 +4015,7 @@ ol {
     right: 15px;
     top: 11px;
     font-size: 20px;
-    color: #ae9548
+    color: #fff
 }
 
 .room-check {
@@ -4025,7 +4029,7 @@ ol {
 }
 
 .room-item .room-pic-item.owl-carousel .owl-nav button[type="button"] {
-    color: #ae9548;
+    color: #fff;
     font-size: 26px;
     height: 69px;
     width: 52px;
@@ -4101,7 +4105,7 @@ ol {
 
 .room-item .room-text .room-features .room-info i {
     display: block;
-    color: #ae9548;
+    color: #fff;
     margin-bottom: -4px
 }
 
@@ -4118,7 +4122,7 @@ ol {
     padding-right: 60px;
     padding-top: 55px;
     padding-bottom: 61px;
-    border: 2px solid #ae9548;
+    border: 2px solid #fff;
     margin-bottom: 40px
 }
 
@@ -4278,7 +4282,7 @@ ol {
     right: -45px;
     bottom: 7px;
     font-size: 31px;
-    color: #ae9548
+    color: #fff
 }
 
 .nice-select {
@@ -4308,7 +4312,7 @@ ol {
     font-size: 48px;
     font-weight: 500;
     line-height: 56px;
-    color: #242424;
+    color: #8ad55d;
     margin-bottom: 26px
 }
 
@@ -4485,7 +4489,7 @@ ol {
 }
 
 .testimonial-author-item ul li a .author-text h5 {
-    color: #ae9548;
+    color: #fff;
     font-size: 18px;
     font-family: "Open Sans", sans-serif;
     font-weight: 700;
@@ -4524,7 +4528,8 @@ ol {
 }
 
 .footer-section {
-    background: #353535;
+    background-color: #8ad55d;
+    ;
     padding-top: 43px;
     overflow: hidden
 }
@@ -4544,7 +4549,7 @@ ol {
 .footer-section .single-footer-widget h5 {
     font-size: 18px;
     line-height: 42px;
-    color: #ae9548
+    color: #fff
 }
 
 .footer-section .single-footer-widget .widget-text {
@@ -4556,7 +4561,7 @@ ol {
     left: 0;
     top: 5px;
     font-size: 18px;
-    color: #ae9548
+    color: #fff
 }
 
 .footer-section .single-footer-widget .widget-text p {
@@ -4570,7 +4575,7 @@ ol {
 .footer-section .copyright-area {
     overflow: hidden;
     padding: 30px 0;
-    border-top: 1px solid #ae9548
+    border-top: 1px solid #fff
 }
 
 .footer-section .copyright-area .copyright-text {
@@ -4632,7 +4637,7 @@ ol {
 }
 
 .hero-text .page-nav a i {
-    color: #ae9548;
+    color: #fff;
     position: relative;
     top: 2px
 }
@@ -4785,7 +4790,7 @@ ol {
     font-size: 18px;
     font-family: "Open Sans", sans-serif;
     font-weight: 700;
-    color: #ae9548;
+    color: #fff;
     text-transform: uppercase;
     margin-bottom: 5px
 }
@@ -4802,7 +4807,7 @@ ol {
 }
 
 .single-staff-item .staff-text a i {
-    color: #ae9548;
+    color: #fff;
     font-size: 25px;
     position: absolute;
     right: 30px;
@@ -4859,7 +4864,7 @@ ol {
 }
 
 .single-features-item i {
-    color: #ae9548;
+    color: #fff;
     display: inline-block;
     margin-bottom: 10px
 }
@@ -4892,7 +4897,7 @@ ol {
 }
 
 .rooms-page-item .room-pic-slider.owl-carousel .owl-nav button[type="button"] {
-    color: #ae9548;
+    color: #fff;
     font-size: 26px;
     height: 69px;
     width: 52px;
@@ -4988,7 +4993,7 @@ ol {
 
 .rooms-page-item .room-text .room-features .room-info i {
     display: block;
-    color: #ae9548;
+    color: #fff;
     margin-bottom: -4px
 }
 
@@ -5041,7 +5046,7 @@ ol {
     width: 24px;
     display: inline-block;
     line-height: 24px;
-    background: #ae9548;
+    background: #fff;
     font-size: 14px;
     color: #fff;
     font-family: "Open Sans", sans-serif;
@@ -5088,7 +5093,7 @@ ol {
     position: absolute;
     left: 0;
     top: 4px;
-    color: #ae9548;
+    color: #fff;
     font-size: 18px
 }
 
@@ -5109,13 +5114,13 @@ ol {
 }
 
 .side-bar .tags-item .tag-links a {
-    color: #ae9548;
+    color: #fff;
     display: inline-block;
     font-family: "Open Sans", sans-serif;
     font-size: 14px;
     font-weight: 400;
     letter-spacing: .2px;
-    border: 1px solid #ae9548;
+    border: 1px solid #fff;
     border-radius: 50px;
     padding: 2px 12px;
     margin-right: 6px;
@@ -5152,7 +5157,7 @@ ol {
 }
 
 .blog-post .single-blog-post .blog-text .blog-widget .blog-info i {
-    color: #ae9548;
+    color: #fff;
     font-size: 18px;
     position: absolute;
     left: 0;
@@ -5194,7 +5199,7 @@ ol {
 
 .blog-post .single-blog-post a i {
     font-size: 22px;
-    color: #ae9548;
+    color: #fff;
     position: absolute;
     right: -32px;
     top: -1px
@@ -5204,13 +5209,13 @@ ol {
     display: inline-block;
     height: 32px;
     width: 32px;
-    border: 1px solid #ae9548;
+    border: 1px solid #fff;
     line-height: 31px;
     text-align: center;
     font-size: 14px;
     font-family: "Open Sans", sans-serif;
     font-weight: 400;
-    color: #ae9548;
+    color: #fff;
     margin-right: 2px;
     -webkit-transition: .3s;
     transition: .3s
@@ -5218,7 +5223,7 @@ ol {
 
 .blog-post .blog-pagination a:hover,
 .blog-post .blog-pagination a.active {
-    background: #ae9548;
+    background: #fff;
     color: #fff
 }
 
@@ -5271,8 +5276,8 @@ ol {
     display: inline-block;
     height: 46px;
     width: 46px;
-    border: 1px solid #ae9548;
-    color: #ae9548;
+    border: 1px solid #fff;
+    color: #fff;
     border-radius: 50%;
     line-height: 46px;
     font-size: 22px;
@@ -5281,7 +5286,7 @@ ol {
 }
 
 .contact-form {
-    border: 2px solid #ae9548;
+    border: 2px solid #fff;
     padding-left: 60px;
     padding-top: 55px;
     padding-right: 68px;
@@ -5390,7 +5395,7 @@ ol {
     right: -45px;
     bottom: 7px;
     font-size: 31px;
-    color: #ae9548
+    color: #fff
 }
 
 .contact-form form .input-group {
@@ -5812,7 +5817,76 @@ ol {
     }
 }
 
+.main-color {
+    background-color: #8ad55d;
+}
 
-/* .main-color {
-    background-color: #727272;
-} */
+.services-section {
+    /* background: linear-gradient(#b3c3bf 80%, #3D7C96 100%) !important; */
+    padding-bottom: 40px;
+}
+
+.section_title {
+    margin-bottom: 75px;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.service-block-one {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.service-block-one .inner .icon.center {
+    margin: 0 auto;
+}
+
+.service-block-one .inner {
+    position: relative;
+    padding-right: 25px;
+}
+
+.service-block-one .inner .icon span,
+.service-block-one .inner .icon i {
+    color: #fff;
+}
+
+.service-block-one .inner .icon {
+    position: relative;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    border: 2px solid #8ad55d;
+    background: #8ad55d;
+    border-radius: 50%;
+}
+
+.service-block-one .inner h3 a {
+    font-size: 20px;
+}
+
+.service-block-one:hover .icon span {
+    color: #000;
+}
+
+.service-block-one .inner:hover .icon {
+    background-color: #fff;
+}
+
+.service-block-one:hover .inner .icon i {
+    color: #8ad55d;
+}
+
+.flaticon-coffee-cup:before {
+    content: "\f105";
+}
+
+.flaticon-restaurant-cutlery:before {
+    content: "\f103";
+}
+
+
+/* NAVBAR */
